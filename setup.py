@@ -21,7 +21,7 @@ with open(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'README.md'),
 install_requires = [
     'pydub==0.23.1',
     'webrtcvad==2.0.10',
-    'librosa==0.7.1'
+    'librosa==0.8.1' 
 ]
 
 
